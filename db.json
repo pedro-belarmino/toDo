@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "name": "Comprar pão",
+      "description": "Ir à padaria da esquina.",
+      "completed": false,
+      "archived": false
+    },
+    {
+      "id": "2",
+      "name": "Estudar React Native",
+      "description": "Assistir às aulas do curso.",
+      "completed": true,
+      "archived": false
+    },
+    {
+      "id": "3",
+      "name": "Passear com o cachorro",
+      "description": "",
+      "completed": false,
+      "archived": true
+    },
+    {
+      "id": "9f77",
+      "name": "Minha nova tarefa de teste",
+      "description": "Descrição da tarefa de teste",
+      "completed": false,
+      "archived": false
+    }
+  ]
+}

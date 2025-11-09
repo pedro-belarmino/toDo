@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-equipamentos",
-    "slug": "rn-equipamentos",
+    "name": "task-manager-app",
+    "slug": "task-manager-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,9 +24,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "expo-secure-store"
-    ]
+    }
   }
 }
